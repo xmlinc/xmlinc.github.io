@@ -13,6 +13,10 @@ body {
 	margin: 0 auto;
 }
 
+.float_left{
+	float:left;
+}
+
 footer {
     margin: 50px 0;
 }
